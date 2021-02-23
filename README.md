@@ -49,11 +49,6 @@ PUBG(https://www.tencent.com)
 
 UNIQUEGAMER(https://www.instagram.com/raju811990/?hl=en)
 
-TABLE
-|PUBGId|KILLS|K\D|      
-|----|-----|----|     
-|UNQ GAMER|400|4.9|    
-
 ~~STRIKED~~  
 - [X] CHECKBOX
 - [ ] ONE
