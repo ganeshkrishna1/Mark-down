@@ -42,7 +42,6 @@ IMAGE
 ![A](https://pbs.twimg.com/profile_images/1314178541664243719/Qggf4unD_400x400.jpg)
 
 
-![X](https://upload.wikimedia.org/wikipedia/commons/1/1a/Rasika_Dugal_at_the_special_screening_of_the_web_series_Mirzapur.jpg)
 
 LINK
 
@@ -51,9 +50,9 @@ PUBG(https://www.tencent.com)
 UNIQUEGAMER(https://www.instagram.com/raju811990/?hl=en)
 
 TABLE
-|PUBGId|KILLS|K\D|
-|----|-----|----|
-|UNQ GAMER|400|4.9|
+|PUBGId|KILLS|K\D|      
+|----|-----|----|     
+|UNQ GAMER|400|4.9|    
 
 ~~STRIKED~~  
 - [X] CHECKBOX
